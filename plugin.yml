@@ -1,0 +1,9 @@
+name: KothPvp
+main: me.hammale.koth.koth
+version: 1.0
+author: [hammale]
+depend: [Essentials]
+commands:
+  pvp:
+  archer:
+  chemist:
