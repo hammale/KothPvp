@@ -1,0 +1,12 @@
+KothPVP Update log #1
+
+- kits.yml for me to make kits through the kits.yml file.
+
+- in-game shop ex. /buy soup , /buy sharpness etc
+
+- updated leaderboards with in-game signs
+
+- kothpvp banning system (if needed)
+
+- creation of signs ex. [KothPVP] (bottom line) <kitname>
+
